@@ -10,4 +10,4 @@
 ![gallow](./images/3.png)
 
 ## Beurten
-G A M
+G A M K
